@@ -66,7 +66,8 @@ I'm a fresher learning machine learning, and this repo is where I practice conce
 Each topic folder contains:
 - A Jupyter notebook (`.ipynb`) with the code
 - The dataset used (`.csv`)
-- A short `README.md` explaining the experiment and results
+- A short `README.md` explaining the experiment and results.
+  
 
 ---
 
